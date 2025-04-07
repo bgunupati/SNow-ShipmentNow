@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_headers">
+    <sys_rest_message_headers action="DELETE">
+        <name>Accept</name>
+        <rest_message display_value="FedEx Rates And Quotes">43cf4dbf53131210043970c0a0490e73</rest_message>
+        <sys_class_name>sys_rest_message_headers</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-07 07:10:28</sys_created_on>
+        <sys_id>1f8dc4815374aa10043970c0a0490eeb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Accept</sys_name>
+        <sys_package display_value="ShipmentNow" source="x_1587359_shipnow">5bb2706f53535610043970c0a0490ef7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ShipmentNow">5bb2706f53535610043970c0a0490ef7</sys_scope>
+        <sys_update_name>sys_rest_message_headers_1f8dc4815374aa10043970c0a0490eeb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-07 07:10:28</sys_updated_on>
+        <value>application/json</value>
+    </sys_rest_message_headers>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ShipmentNow">5bb2706f53535610043970c0a0490ef7</application>
+        <file_path/>
+        <instance_id>4c75c0e6fb9f121452b0f3585eefdc1d</instance_id>
+        <instance_name>dev293086</instance_name>
+        <name>sys_rest_message_headers_1f8dc4815374aa10043970c0a0490eeb</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_headers"><sys_rest_message_headers action="INSERT_OR_UPDATE"><name>Accept</name><rest_message display_value="FedEx Rates And Quotes">43cf4dbf53131210043970c0a0490e73</rest_message><sys_class_name>sys_rest_message_headers</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-07 07:10:28</sys_created_on><sys_id>1f8dc4815374aa10043970c0a0490eeb</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Accept</sys_name><sys_package display_value="ShipmentNow" source="x_1587359_shipnow">5bb2706f53535610043970c0a0490ef7</sys_package><sys_policy/><sys_scope display_value="ShipmentNow">5bb2706f53535610043970c0a0490ef7</sys_scope><sys_update_name>sys_rest_message_headers_1f8dc4815374aa10043970c0a0490eeb</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-07 07:10:28</sys_updated_on><value>application/json</value></sys_rest_message_headers></record_update>]]></payload>
+        <payload_hash>1653516106</payload_hash>
+        <record_name>Accept</record_name>
+        <reverted_from/>
+        <source>f5d4fc6f53535610043970c0a0490ed7</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-07 07:10:28</sys_created_on>
+        <sys_id>4f9dc4815374aa10043970c0a0490eee</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1960f16196f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-07 07:10:28</sys_updated_on>
+        <type>HTTP Headers</type>
+        <update_guid>439dc4814d74aa10723ddcc43f8688ee</update_guid>
+        <update_guid_history>439dc4814d74aa10723ddcc43f8688ee:1653516106</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-07 07:30:31</sys_created_on>
+        <sys_db_object display_value="" name="sys_rest_message_headers">sys_rest_message_headers</sys_db_object>
+        <sys_id>5dac1be6d1dd47c193bdb5608b1e99e9</sys_id>
+        <sys_metadata>1f8dc4815374aa10043970c0a0490eeb</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Accept</sys_name>
+        <sys_package display_value="ShipmentNow" source="x_1587359_shipnow">5bb2706f53535610043970c0a0490ef7</sys_package>
+        <sys_parent display_value="FedEx Rates And Quotes">43cf4dbf53131210043970c0a0490e73</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="ShipmentNow">5bb2706f53535610043970c0a0490ef7</sys_scope>
+        <sys_scope_delete display_value="">062f62bf3f57421eb0064231ada071a9</sys_scope_delete>
+        <sys_update_name>sys_rest_message_headers_1f8dc4815374aa10043970c0a0490eeb</sys_update_name>
+        <sys_update_version display_value="sys_rest_message_headers_1f8dc4815374aa10043970c0a0490eeb">4f9dc4815374aa10043970c0a0490eee</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-07 07:30:31</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

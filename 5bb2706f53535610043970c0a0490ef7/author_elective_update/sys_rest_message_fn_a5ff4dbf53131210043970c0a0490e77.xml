@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn">
+    <sys_rest_message_fn action="DELETE">
+        <authentication_type>inherit_from_parent</authentication_type>
+        <basic_auth_password/>
+        <basic_auth_profile/>
+        <basic_auth_user/>
+        <content/>
+        <function_name>Default GET</function_name>
+        <http_method>get</http_method>
+        <lock>false</lock>
+        <oauth2_profile/>
+        <protocol_name/>
+        <qualified_name>FedEx Rates And Quotes [ Default GET ]</qualified_name>
+        <rest_endpoint>https://apis-sandbox.fedex.com/rate/v1/rates/quotes</rest_endpoint>
+        <rest_message display_value="FedEx Rates And Quotes">43cf4dbf53131210043970c0a0490e73</rest_message>
+        <sys_class_name>sys_rest_message_fn</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-31 11:29:28</sys_created_on>
+        <sys_id>a5ff4dbf53131210043970c0a0490e77</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Default GET</sys_name>
+        <sys_package display_value="ShipmentNow" source="x_1587359_shipnow">5bb2706f53535610043970c0a0490ef7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ShipmentNow">5bb2706f53535610043970c0a0490ef7</sys_scope>
+        <sys_update_name>sys_rest_message_fn_a5ff4dbf53131210043970c0a0490e77</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-31 11:29:28</sys_updated_on>
+        <use_basic_auth>false</use_basic_auth>
+        <use_mid_server/>
+        <use_mutual_auth>false</use_mutual_auth>
+    </sys_rest_message_fn>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ShipmentNow">5bb2706f53535610043970c0a0490ef7</application>
+        <file_path/>
+        <instance_id>4c75c0e6fb9f121452b0f3585eefdc1d</instance_id>
+        <instance_name>dev293086</instance_name>
+        <name>sys_rest_message_fn_a5ff4dbf53131210043970c0a0490e77</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn"><sys_rest_message_fn action="INSERT_OR_UPDATE"><authentication_type>inherit_from_parent</authentication_type><basic_auth_password/><basic_auth_profile/><basic_auth_user/><content/><function_name>Default GET</function_name><http_method>get</http_method><lock>false</lock><oauth2_profile/><protocol_name/><qualified_name>FedEx Rates And Quotes [ Default GET ]</qualified_name><rest_endpoint>https://apis-sandbox.fedex.com/rate/v1/rates/quotes</rest_endpoint><rest_message display_value="FedEx Rates And Quotes">43cf4dbf53131210043970c0a0490e73</rest_message><sys_class_name>sys_rest_message_fn</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-01-31 11:29:28</sys_created_on><sys_id>a5ff4dbf53131210043970c0a0490e77</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Default GET</sys_name><sys_package display_value="ShipmentNow" source="x_1587359_shipnow">5bb2706f53535610043970c0a0490ef7</sys_package><sys_policy/><sys_scope display_value="ShipmentNow">5bb2706f53535610043970c0a0490ef7</sys_scope><sys_update_name>sys_rest_message_fn_a5ff4dbf53131210043970c0a0490e77</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-01-31 11:29:28</sys_updated_on><use_basic_auth>false</use_basic_auth><use_mid_server/><use_mutual_auth>false</use_mutual_auth></sys_rest_message_fn></record_update>]]></payload>
+        <payload_hash>584514773</payload_hash>
+        <record_name>Default GET</record_name>
+        <reverted_from/>
+        <source>f5d4fc6f53535610043970c0a0490ed7</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-31 11:29:28</sys_created_on>
+        <sys_id>e5ff4dbf53131210043970c0a0490e79</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>194bc1f7f710000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-31 11:29:28</sys_updated_on>
+        <type>HTTP Method</type>
+        <update_guid>e9ff4dbf8a131210a9ed7c8944d5f278</update_guid>
+        <update_guid_history>e9ff4dbf8a131210a9ed7c8944d5f278:584514773</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-31 11:29:46</sys_created_on>
+        <sys_db_object display_value="" name="sys_rest_message_fn">sys_rest_message_fn</sys_db_object>
+        <sys_id>09b16426794f40eaa94417173cd5ac39</sys_id>
+        <sys_metadata>a5ff4dbf53131210043970c0a0490e77</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Default GET</sys_name>
+        <sys_package display_value="ShipmentNow" source="x_1587359_shipnow">5bb2706f53535610043970c0a0490ef7</sys_package>
+        <sys_parent display_value="FedEx Rates And Quotes">43cf4dbf53131210043970c0a0490e73</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="ShipmentNow">5bb2706f53535610043970c0a0490ef7</sys_scope>
+        <sys_scope_delete display_value="">062f62bf3f57421eb0064231ada071a9</sys_scope_delete>
+        <sys_update_name>sys_rest_message_fn_a5ff4dbf53131210043970c0a0490e77</sys_update_name>
+        <sys_update_version display_value="sys_rest_message_fn_a5ff4dbf53131210043970c0a0490e77">e5ff4dbf53131210043970c0a0490e79</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-31 11:29:46</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

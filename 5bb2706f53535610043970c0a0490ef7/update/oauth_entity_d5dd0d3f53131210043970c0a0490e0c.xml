@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="oauth_entity">
+    <oauth_entity action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <access_token_lifespan>1800</access_token_lifespan>
+        <active>true</active>
+        <auth_code_lifespan>0</auth_code_lifespan>
+        <auth_url/>
+        <certificate_url/>
+        <client_id>l7dbde0d6963324d9b8bcb17a150a63a31</client_id>
+        <client_secret>﷞﷟﷒37a658e653931210043970c0a0490e25﷬﷔1﷬﷭zM_0VIu41BUHFMmuIS2_qQ==DDL8oHKn7oQcyzXeUuc4AppW0ZM-53vsRNKk_ezNvA4EbSU3AaKOd99qFEtBVjKY﷮﷯</client_secret>
+        <client_type/>
+        <client_uuid>95dd0d3f53131210043970c0a0490e0c</client_uuid>
+        <code_challenge_method>S256</code_challenge_method>
+        <comments>Authetication Provider for FexEx API for access</comments>
+        <default_grant_type>client_credentials</default_grant_type>
+        <extend_refresh_token_expiry>true</extend_refresh_token_expiry>
+        <id_token_lifespan>0</id_token_lifespan>
+        <jwt_provider/>
+        <login_url/>
+        <logo_url/>
+        <message_signature_lifespan>0</message_signature_lifespan>
+        <mobile_client>false</mobile_client>
+        <name>FedExShipping</name>
+        <oauth_api_script/>
+        <protocol_name/>
+        <public_client>false</public_client>
+        <redirect_url>https://dev293086.service-now.com/oauth_redirect.do</redirect_url>
+        <refresh_token_lifespan>3599</refresh_token_lifespan>
+        <refresh_token_url/>
+        <restricted_binding>false</restricted_binding>
+        <revoke_token_url/>
+        <salt>0</salt>
+        <send_client_credentials_as>request_body_parameter</send_client_credentials_as>
+        <skip_authorize>false</skip_authorize>
+        <sys_class_name>oauth_entity</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-31 11:23:36</sys_created_on>
+        <sys_id>d5dd0d3f53131210043970c0a0490e0c</sys_id>
+        <sys_mod_count>11</sys_mod_count>
+        <sys_name>FedExShipping</sys_name>
+        <sys_package display_value="ShipmentNow" source="x_1587359_shipnow">5bb2706f53535610043970c0a0490ef7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ShipmentNow">5bb2706f53535610043970c0a0490ef7</sys_scope>
+        <sys_update_name>oauth_entity_d5dd0d3f53131210043970c0a0490e0c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-07 08:05:19</sys_updated_on>
+        <token_url>https://apis-sandbox.fedex.com/oauth/token</token_url>
+        <type>oauth_provider</type>
+        <use_mutual_auth>false</use_mutual_auth>
+        <user/>
+    </oauth_entity>
+</record_update>
